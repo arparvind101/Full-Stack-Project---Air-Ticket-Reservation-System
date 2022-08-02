@@ -1,0 +1,2 @@
+# Full-Stack-Project---Air-Ticket-Reservation-System
+The AirTicket Reservation System Management Project in Java was created in Java Programming Language using Eclipse IDE and MySQL Database as the System’s Back-end. When a passenger reserves a ticket, the technology also allows us to add records. MySQL Database is used to store and retrieve data. It allows us to add as many records as we want to our database. The “Carrier Management System” project includes a large number of flights belonging to a single airline.
